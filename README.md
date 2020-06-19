@@ -74,6 +74,9 @@ Project Jupyter ofrece diferentes herramientas para facilitar la informática in
 Los usuarios experimentados de Python pueden instalar Jupyter usando el pip del administrador de paquetes de Python.
 Asi se hace con `Python 3`:
 
+python3 -m pip install --upgrade pip
+python3 -m pip install jupyter
+
 
 ## Creditos
 Las descripciones están basadas en las colaboraciones de proyecto **giswqs** de github creado por el [Profesor Wu, Q](https://wetlands.io/), del [Departamento de Geografía](https://geography.utk.edu/) de la [Universidad de Tennessee](https://www.utk.edu/), 2020. Asi como las capacitaciones del programa [Copuernicus](https://www.copernicus.eu/en) de la [ESA](https://www.esa.int/), a traves del programa de capacitacion de [EUMETSAT](https://training.eumetsat.int/).
