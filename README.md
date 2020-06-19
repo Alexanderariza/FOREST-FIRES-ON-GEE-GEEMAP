@@ -7,15 +7,15 @@ La siguiente es una colección de los scripts para Google Earth Engine GGE, con 
 trabajar con datos de forma masiva en la nube y como alternativa alos software propietarios de escritorio.
 Todos los desarrollos descritos a continuación son parte del trabajo desarrollado dentro de la estancia científica 
 en [UNSPIDER](https://www.un-spider.org) (oficina de Bonn -Alemania), Febrero de 2020.
-Este repositorio es una colección de ejemplos earthengine en Jupyter Notebook en Python. Tambien se pueden ver las capas de datos de Earth Engine de forma interactiva en las notebooks Jupyter sin tener que instalar QGIS. En estos ejemplos se están utilizando varios paquetes de Python, incluidos Earth Engine Python API, folium, ipyleaflet y geemap. El paquete geemap Python se basa en los paquetes folium e ipyleaflet e implementa varios métodos para interactuar con las capas de datos de Earth Engine, como `Map.addLayer`, `Map.setCenter`, `Map.centerObject` y `Map.setOptions`.
+Este repositorio es una colección de ejemplos earthengine en Jupyter Notebook en Python. Tambien se pueden ver las capas de datos de Earth Engine de forma interactiva en las notebooks Jupyter sin tener que instalar QGIS. En estos ejemplos se están utilizando varios paquetes de Python, incluidos Earth Engine Python API, folium, ipyleaflet y geemap. El paquete geemap Python se basa en los paquetes folium e ipyleaflet e implementa varios métodos para interactuar con las capas de datos de Earth Engine, como `Map.addLayer`, `Map.setCenter`, `Map.centerObject` y `Map.setOptions` 
 
 <img src='./IMG/head_a.png' alt='Logo Head' align='center' width='99%'></img>
 <br>
 <img src='./IMG/header_1.png' alt='Logo UNSPIDER' align='left' width='50%'></img>
-<br>.
+<br> 
  
  <a href="https://colab.research.google.com/github/Alexanderariza/FOREST-FIRES-ON-GEE-GEEMAP/blob/master/.ipynb_checkpoints/00_%C3%8DNDICE-checkpoint.ipynb"><img src='./IMG/COLAB.svg' alt='Logo CO' align='left' width='10%'></img>
-<br>.
+<br> 
 
 <a href="https://nbviewer.jupyter.org/github/Alexanderariza/FOREST-FIRES-ON-GEE-GEEMAP/blob/master/00_%C3%8DNDICE.ipynb"><img src='./IMG/NT_vie.svg' alt='NT_VW' align='left' width='10%'></img>
 <br>
