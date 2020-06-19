@@ -50,7 +50,7 @@ Material organizado por el [**Alexander Ariza**](https://www.researchgate.net/pr
 <img src='./IMG/head_b.png' alt='Logo Head' align='center' width='99%'></img>
 <br>
 # 1. INTRODUCCIÓN
-<hr>
+
 ## **¿Que es Jupyter?**
 
 El Proyecto Jupyter es una organización sin ánimo de lucro creado por [Fernando Pérez](https://es.wikipedia.org/wiki/Fernando_P%C3%A9rez_(programador)) , [Brian Granger](https://blog.jupyter.org/@ellisonbg) para "desarrollar software de código abierto, mediante estándares abiertos y servicios para computación interactiva en docenas de lenguajes de programación".
@@ -60,6 +60,7 @@ El Proyecto Jupyter es una organización sin ánimo de lucro creado por [Fernand
 <b><i>"El nombre del **proyecto Jupyter o Project Jupyter** es una referencia a los tres lenguajes de programación principales soportados por Jupyter, que son `Julia`, `Python` y `R`".</div>
  
 A continuación, veremos una breve descripción del entorno de Jupyter, con énfasis en **Jupyter Notebook**, para el desarrollo de ejercicios de PDI en **GEE** y el paquete **geemap**.
+
 ## Project Jupyter
 Project Jupyter ofrece diferentes herramientas para facilitar la informática interactiva, ya sea con una aplicación basada en la web (`Jupyter Notebooks`), un entorno de desarrollo interactivo (`JupyterLab`) o mediante un `JupyterHub` que lleva la informática interactiva a grupos de usuarios.
 <img src='./IMG/jupyter_comp.png' align='center' width='25%'>
