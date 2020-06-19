@@ -113,8 +113,51 @@ Presionando la tecla `shift` más una de las siguientes teclas, podrá ir a los 
 * `Shift + Down / Upwards` - Seleccione multiples celdas
 * `Shift + M` - Unir multiples celdas
 
+## Celdas mágicas
+Los comandos mágicos pueden hacer tu vida mucho más fácil, ya que solo tienes un comando en lugar de una función completa o varias líneas de código.<br>, e.g:
+> Ir a un [Comando de extensión o vinculo (ejemplo:cargar nueva ventana)]()
+### Algunos ejemplos de celdas mágicas
+**Descripción general:**
+%lsmagic
+**Ver y aparecer variables de entorno:**
+%env
+**Instalar y enumerar bibliotecas:**
+!pip install numpy
+!pip list | grep pandas
+Escribir el contenido de una celda en un archivo Python:
+%%writefile hello_world.py
 
+print('Hola Mundo')
 
+Cargar un archivo Python:
+%pycat hello_world.py
+Obtener el tiempo de ejecución:
+%%time
+
+tmpList = []
+for i in range(100):
+    tmpList.append(i+i)
+
+print(tmpList)
+
+Mostrar gráficos de matplotlib en línea:
+%matplotlib inline
+## Compartir tus Jupyter Notebooks
+* [nbviewer](https://nbviewer.jupyter.org/) - Una forma sencilla de compartir cuadernos Jupyter, es simplemente pegando la ubicación de GitHub de su computadora portátil Jupyter allí y se muestra muy bien. 
+* [GitHub](https://github.com/) - GitHub ofrece una representación interna de los cuadernos Jupyter. Existen algunas limitaciones y retrasos en el tiempo de la representación adecuada. Por lo tanto, sugeriríamos usar nbviewer para compartir cuadernos Jupyter bien representados.
+
+### Reproducción de Jupyter Notebooks
+<img src="./IMG/mybinder_logo.png" align="right" width="30%"></img>
+[Binder](https://mybinder.org/) le permite abrir cuadernos alojados en un repositorio de Git en un entorno ejecutable, haciendo que el código sea reproducible inmediatamente por cualquier persona, en cualquier lugar.
+
+Binder crea una imagen de Docker del repositorio donde se alojan los cuadernos.
+### Otros recursos disponibles
+* [Project Jupyter](https://jupyter.org/)
+* [JupyterHub](https://jupyterhub.readthedocs.io/en/stable/)
+* [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/)
+* [nbviewer](https://nbviewer.jupyter.org/)
+* [Binder](https://mybinder.org/)
+* [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb)
 
 
 ## Creditos
