@@ -14,6 +14,7 @@ Este repositorio es una colección de ejemplos earthengine en Jupyter Notebook e
 <img src='./IMG/header_1.png' alt='Logo UNSPIDER' align='left' width='50%'></img>
 <br>
 
+
 <span style="float:right;"><a href="./01_INTRODUCCIÓN.ipynb"> **01 - INTRODUCCIÓN - >>**</a>
  
  <a href="https://colab.research.google.com/github/Alexanderariza/FOREST-FIRES-ON-GEE-GEEMAP/blob/master/.ipynb_checkpoints/00_%C3%8DNDICE-checkpoint.ipynb"><img src='./IMG/COLAB.svg' alt='Logo CO' align='left' width='10%'></img>
