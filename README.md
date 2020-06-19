@@ -14,12 +14,7 @@ Este repositorio es una colección de ejemplos earthengine en Jupyter Notebook e
 <img src='./IMG/header_1.png' alt='Logo UNSPIDER' align='left' width='50%'></img>
 <br>. 
 <hr> 
-<a href="https://colab.research.google.com/github/Alexanderariza/FOREST-FIRES-ON-GEE-GEEMAP/blob/master/.ipynb_checkpoints/00_%C3%8DNDICE-checkpoint.ipynb"><img src='./IMG/COLAB.svg' alt='Logo CO' align='left' width='10%'></img>
-<br> 
 
-<a href="https://nbviewer.jupyter.org/github/Alexanderariza/FOREST-FIRES-ON-GEE-GEEMAP/blob/master/00_%C3%8DNDICE.ipynb"><img src='./IMG/NT_vie.svg' alt='NT_VW' align='left' width='10%'></img>
-<br>
-## Procesamiento digital de imágenes en GEE y Jupyter Notebook
 # Ejercicios básicos de procesamiento digital en Jupyter Notebook
 
 La siguiente es una colección de scripts básicos, explicados en **español** para el procesamiento digital de imágenes en [**Google Earth Engine (GGE)**](https://earthengine.google.com/), con el fin de poder trabajar con datos de forma masiva en la nube mediante software de código abierto.
