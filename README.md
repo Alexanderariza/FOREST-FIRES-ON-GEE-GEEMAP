@@ -70,6 +70,9 @@ Project Jupyter ofrece diferentes herramientas para facilitar la informática in
  "Project Jupyter es una plataforma web que permite desarrollar software de código abierto, estándares abiertos y servicios para computación interactiva en docenas de lenguajes de programación."</i></b>
 </div>
 
+### Instalando Jupyter con pip
+Los usuarios experimentados de Python pueden instalar Jupyter usando el pip del administrador de paquetes de Python.
+Asi se hace con `Python 3`:
 
 
 ## Creditos
