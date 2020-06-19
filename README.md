@@ -50,6 +50,7 @@ A continuación podrá encontrar los siguientes contenidos:
 **III - CASOS DE ESTUDIO**
 
 * [6 - Índice de Área Quemada (NBR) de MODIS en Australia](./06_ÍNDICE_DE_QUEMA_NBR_EN_AUSTRALIA.ipynb)
+
 **NOTA:** El contenido de estos cuadernos esta orientado a definir algunas funciones generales para cargar, explorar, procesar y visualizar los conjuntos de datos.
 ## Creditos
 Material organizado por el [**Alexander Ariza**](https://www.researchgate.net/profile/Alexander_Ariza2), como apoyo al portal de conocimiento de la oficina de [**UNSPIDER**](https://www.un-spider.org), 2020.
