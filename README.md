@@ -67,7 +67,7 @@ Project Jupyter ofrece diferentes herramientas para facilitar la informática in
 
 <img src='./IMG/jupyter_comp.png' align='center' width='25%'>
 <div class="alert alert-block alert-success" align="center">
-<b><i>  "Project Jupyter es una plataforma web que permite desarrollar software de código abierto, estándares abiertos y servicios para computación interactiva en docenas de lenguajes de programación."</i></b>
+<b><i>"Project Jupyter es una plataforma web que permite desarrollar software de código abierto, estándares abiertos y servicios para computación interactiva en docenas de lenguajes de programación."</i></b>
 </div>
 
 
