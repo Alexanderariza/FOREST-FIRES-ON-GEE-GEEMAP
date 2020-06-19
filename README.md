@@ -67,6 +67,7 @@ Project Jupyter ofrece diferentes herramientas para facilitar la informática in
 <img src='./IMG/jupyter_comp.png' align='center' width='25%'>
 <div class="alert alert-block alert-success" align="center">
 <b><i>
+ 
  "Project Jupyter es una plataforma web que permite desarrollar software de código abierto, estándares abiertos y servicios para computación interactiva en docenas de lenguajes de programación."</i></b>
 </div>
 
@@ -162,6 +163,6 @@ Binder crea una imagen de Docker del repositorio donde se alojan los cuadernos.
 
 ## Creditos
 Las descripciones están basadas en las colaboraciones de proyecto **giswqs** de github creado por el [Profesor Wu, Q](https://wetlands.io/), del [Departamento de Geografía](https://geography.utk.edu/) de la [Universidad de Tennessee](https://www.utk.edu/), 2020. Asi como las capacitaciones del programa [Copuernicus](https://www.copernicus.eu/en) de la [ESA](https://www.esa.int/), a traves del programa de capacitacion de [EUMETSAT](https://training.eumetsat.int/).
-<span style="float:right;"><a href="./01_INTRODUCCIÓN.ipynb"> **01 - INTRODUCCIÓN - >>**</a>
+
  <img src='./IMG/UNicon.png' alt='Logo down' align='right' width='8%'></img>
 <i><p style="text-align:right;">Material organizado por el [**Alexander Ariza**](https://www.researchgate.net/profile/Alexander_Ariza2), como apoyo al portal de conocimiento de la oficina de [**UNSPIDER**](https://www.un-spider.org), (2020)  .     
