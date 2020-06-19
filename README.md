@@ -72,10 +72,51 @@ Project Jupyter ofrece diferentes herramientas para facilitar la informática in
 
 ### Instalando Jupyter con pip
 Los usuarios experimentados de Python pueden instalar Jupyter usando el pip del administrador de paquetes de Python.
-Asi se hace con `Python 3`:
-
+#Asi se hace con `Python 3`:
 python3 -m pip install --upgrade pip
 python3 -m pip install jupyter
+#Para ejecutar el cuaderno, ejecuta el mismo comando que con la terminal de Anaconda:
+jupyter notebook
+## Interfax de Jupyter notebooks
+Esta es la descripción general de la Interfax `Jupyter Notebook`, en donde encontraras entre otras opciones:
+
+* Tablero de control de Notebook
+ * Creando un nuevo notebook
+* Notebook editor (UI)
+ * Menu
+ * Barra de herramientas
+ * Notebook areas y celdas
+* Tipo de celdas
+ * Code
+ * Markdown
+* Edit (green) vs. Command mode (blue)
+
+<br>
+
+
+<div style='text-align:center;'>
+<figure><img src='./IMG/gui_notebook.jpg' width='100%'/>
+    <figcaption><i> Interfax de usuario del editor de Notebook (GUI)</i></figcaption>
+</figure>
+</div>
+
+### Atajos en Notebook
+Obtenga una descripción general de los accesos directos presionando 'H' o vaya a la ayuda: `Help/Keyboard shortcuts`
+#### Atajos más comunes:
+Presionando la tecla `shift` más una de las siguientes teclas, podrá ir a los comandos más comunes:
+* `Esc` - Cambiar a modo de comando
+* `B` - Insertar debajo
+* `A` - Insertar encima
+* `M` - Cambiar celda actual a Markdown
+* `Y` - Cambiar celda actual a code
+* `DD` - Borrar celda
+* `Enter` - Regresar al modo de edición
+* `Esc + F` - Encontrar y reemplazar su código
+* `Shift + Down / Upwards` - Seleccione multiples celdas
+* `Shift + M` - Unir multiples celdas
+
+
+
 
 
 ## Creditos
