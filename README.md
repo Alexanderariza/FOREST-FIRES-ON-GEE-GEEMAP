@@ -1,10 +1,10 @@
-
+# JUPITER-NOTEBOOKS-FOREST-FIRES-GEEMAP
 <img src='./IMG/head_a.png' alt='Logo Head' align='center' width='99%'></img>
 <br>
 <img src='./IMG/header_1.png' alt='Logo UNSPIDER' align='left' width='50%'></img>
 <br>. 
 <hr> 
-# JUPITER-NOTEBOOKS-FOREST-FIRES-GEEMAP
+
  Ejecicicos en español sobre Jupyter Notebook y geemap para el monitoreo de incendios forestales
 # Incendios-Forestales-GEE
 Aplicaciones en Google Earth Engine para el monitoreo y manejo de Incendios Forestales.
