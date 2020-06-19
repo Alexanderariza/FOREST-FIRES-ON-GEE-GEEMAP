@@ -18,7 +18,7 @@ Este repositorio es una colección de ejemplos earthengine en Jupyter Notebook e
 <br> 
 
 <a href="https://nbviewer.jupyter.org/github/Alexanderariza/FOREST-FIRES-ON-GEE-GEEMAP/blob/master/00_%C3%8DNDICE.ipynb"><img src='./IMG/NT_vie.svg' alt='NT_VW' align='left' width='10%'></img>
-<br>
+<br>.
 ## Procesamiento digital de imágenes en GEE y Jupyter Notebook
 # Ejercicios básicos de procesamiento digital en Jupyter Notebook
 
