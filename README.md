@@ -89,10 +89,8 @@ Esta es la descripción general de la Interfax `Jupyter Notebook`, en donde enco
 * Tipo de celdas
  * Code
  * Markdown
-Edit (green) vs. Command mode (blue)
 
 <br>
-
 
 <div style='text-align:center;'>
 <figure><img src='./IMG/gui_notebook_.png' width='100%'/>
