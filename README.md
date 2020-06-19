@@ -61,8 +61,9 @@ El Proyecto Jupyter es una organización sin ánimo de lucro creado por [Fernand
  
 A continuación, veremos una breve descripción del entorno de Jupyter, con énfasis en **Jupyter Notebook**, para el desarrollo de ejercicios de PDI en **GEE** y el paquete **geemap**.
 
-## Project Jupyter
 
+
+## Project Jupyter
 Project Jupyter ofrece diferentes herramientas para facilitar la informática interactiva, ya sea con una aplicación basada en la web (`Jupyter Notebooks`), un entorno de desarrollo interactivo (`JupyterLab`) o mediante un `JupyterHub` que lleva la informática interactiva a grupos de usuarios.
 
 <img src='./IMG/jupyter_comp.png' align='center' width='25%'>
