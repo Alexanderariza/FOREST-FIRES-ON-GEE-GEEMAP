@@ -95,7 +95,7 @@ Esta es la descripción general de la Interfax `Jupyter Notebook`, en donde enco
 
 
 <div style='text-align:center;'>
-<figure><img src='./IMG/gui_notebook.jpg' width='100%'/>
+<figure><img src='./IMG/gui_notebook_.png' width='100%'/>
     <figcaption><i> Interfax de usuario del editor de Notebook (GUI)</i></figcaption>
 </figure>
 </div>
