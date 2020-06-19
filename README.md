@@ -159,13 +159,18 @@ Binder crea una imagen de Docker del repositorio donde se alojan los cuadernos.
 * [nbviewer](https://nbviewer.jupyter.org/)
 * [Binder](https://mybinder.org/)
 * [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb)
-# 4. CONVERSIÓN AUTOMÁTICA DE GEE - Javascripts a Python y Jupyter
+
+## 4. CONVERSIÓN AUTOMÁTICA DE GEE - Javascripts a Python y Jupyter
+
 Los siguientes ejemplos requieren el paquete **geemap**, que puede instalarse utilizando `pip install geemap`. Consulte la sección de <a href="./02_INSTALACIÓN_DEL PAQUETE_GEEMAP.ipynb"> Instalación para más información</a>.
 
 Inicie un cuaderno interactivo con **Google Colab**. Tenga en cuenta que la conversión no siempre funciona a la perfección. Es posible que aún se necesiten cambios manuales adicionales. ui y chart no son compatibles. El código fuente de este módulo de conversión automatizado se puede encontrar en github del Profesor Wu, Q en [conversion.py.](https://github.com/giswqs/geemap/blob/master/geemap/conversion.py).
 
-<img src='./IMG/JS2PY.gif' alt='Logo UNSPIDER' align='left' width='50%'></img>
+<img src='./IMG/JS2PY.gif' alt='Logo UNSPIDER' align='left' width='100%'></img>
 <br>
+
+
+
 
 ## Creditos
 Las descripciones están basadas en las colaboraciones de proyecto **giswqs** de github creado por el [Profesor Wu, Q](https://wetlands.io/), del [Departamento de Geografía](https://geography.utk.edu/) de la [Universidad de Tennessee](https://www.utk.edu/), 2020. Asi como las capacitaciones del programa [Copuernicus](https://www.copernicus.eu/en) de la [ESA](https://www.esa.int/), a traves del programa de capacitacion de [EUMETSAT](https://training.eumetsat.int/).
