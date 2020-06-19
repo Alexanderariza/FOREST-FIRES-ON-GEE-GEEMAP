@@ -57,7 +57,7 @@ El Proyecto Jupyter es una organización sin ánimo de lucro creado por [Fernand
 
 <img src='https://i.ytimg.com/vi/5johhf8DnLI/maxresdefault.jpg' align="left" width="30%"></img>
 <div class="alert alert-block alert-success" align="left">
-<b><i>"El nombre del **proyecto Jupyter o Project Jupyter** es una referencia a los tres lenguajes de programación principales soportados por Jupyter, que son `Julia`, `Python` y `R`".</div>
+<b><i>"El nombre del **proyecto Jupyter o Project Jupyter** es una referencia a los tres lenguajes de programación principales soportados por Jupyter, que son `Julia`, `Python` y `R`".</div><i>
  
 A continuación, veremos una breve descripción del entorno de Jupyter, con énfasis en **Jupyter Notebook**, para el desarrollo de ejercicios de PDI en **GEE** y el paquete **geemap**.
 
