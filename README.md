@@ -9,15 +9,12 @@
 # Incendios Forestales en GEE mediante el paquete geemap
 Aplicaciones en Google Earth Engine para el monitoreo y manejo de Incendios Forestales.
 # 1. Descripción
-La siguiente es una colección de los scripts para Google Earth Engine GGE, con el fin de poder
-trabajar con datos de forma masiva en la nube y como alternativa alos software propietarios de escritorio.
+La siguiente es una colección de scripts básicos, explicados en **español** para el procesamiento digital de imágenes en [**Google Earth Engine (GGE)**](https://earthengine.google.com/), con el fin de poder trabajar con datos de forma masiva en la nube mediante software de código abierto, como alternativa alos software propietarios de escritorio.
 Todos los desarrollos descritos a continuación son parte del trabajo desarrollado dentro de la estancia científica 
 en [UNSPIDER](https://www.un-spider.org) (oficina de Bonn -Alemania), Febrero de 2020.
 Este repositorio es una colección de ejemplos earthengine en Jupyter Notebook en Python. Tambien se pueden ver las capas de datos de Earth Engine de forma interactiva en las notebooks Jupyter sin tener que instalar QGIS. En estos ejemplos se están utilizando varios paquetes de Python, incluidos Earth Engine Python API, folium, ipyleaflet y geemap. El paquete geemap Python se basa en los paquetes folium e ipyleaflet e implementa varios métodos para interactuar con las capas de datos de Earth Engine, como `Map.addLayer`, `Map.setCenter`, `Map.centerObject` y `Map.setOptions`. 
 
 # Ejercicios básicos de procesamiento digital en Jupyter Notebook
-
-La siguiente es una colección de scripts básicos, explicados en **español** para el procesamiento digital de imágenes en [**Google Earth Engine (GGE)**](https://earthengine.google.com/), con el fin de poder trabajar con datos de forma masiva en la nube mediante software de código abierto.
 
 Esta colección se basa en cuadernos Jupyter o [**Jupyter Notebook**](https://jupyter.org/), que permiten un alto nivel de aprendizaje interactivo, ya que el código, su descripción y la visualización se combinan en un solo lugar. Si no ha trabajado antes con los Cuadernos Jupyter, puede consultar el módulo Introducción a Python y Project Jupyter para obtener una breve introducción a los cuadernos Jupyter y sus beneficios.
 
