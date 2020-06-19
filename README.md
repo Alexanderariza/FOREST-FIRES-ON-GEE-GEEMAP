@@ -29,7 +29,7 @@ Esta colección se basa en cuadernos Jupyter o [**Jupyter Notebook**](https://ju
 Material organizado por el [**Alexander Ariza**](https://www.researchgate.net/profile/Alexander_Ariza2), como apoyo al portal de conocimiento de la oficina de [**UNSPIDER**](https://www.un-spider.org), 2020.
 
 # ÍNDICE GENERAL
-A continuación podrá encontrar los siguientes contenidos:
+A continuación podrá encontrar los siguientes contenidos: 
 
 **I - INTRODUCCIÓN**
 
