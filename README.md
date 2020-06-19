@@ -16,7 +16,7 @@ Este repositorio es una colección de ejemplos earthengine en Jupyter Notebook e
 
 # Ejercicios básicos de procesamiento digital en Jupyter Notebook
 
-Esta colección se basa en cuadernos Jupyter o [**Jupyter Notebook**](https://jupyter.org/), que permiten un alto nivel de aprendizaje interactivo, ya que el código, su descripción y la visualización se combinan en un solo lugar. Si no ha trabajado antes con los Cuadernos Jupyter, puede consultar el módulo Introducción a Python y Project Jupyter para obtener una breve introducción a los cuadernos Jupyter y sus beneficios.
+Esta colección se basa en cuadernos Jupyter o [**Jupyter Notebook**](https://jupyter.org/), que permiten un alto nivel de aprendizaje interactivo, ya que el código, su descripción y la visualización se combinan en un solo lugar. Si no ha trabajado antes con los Cuadernos Jupyter, puede consultar el módulo [Introducción a Python y Project Jupyter](./01_INTRODUCCIÓN.ipynb) para obtener una breve introducción a los cuadernos Jupyter y sus beneficios.
 
 Material organizado por el [**Alexander Ariza**](https://www.researchgate.net/profile/Alexander_Ariza2), como apoyo al portal de conocimiento de la oficina de [**UNSPIDER**](https://www.un-spider.org), 2020.
 
