@@ -44,9 +44,32 @@ A continuación podrá encontrar los siguientes contenidos:
 * [6 - Índice de Área Quemada (NBR) de MODIS en Australia](./06_ÍNDICE_DE_QUEMA_NBR_EN_AUSTRALIA.ipynb)
 
 **NOTA:** El contenido de estos cuadernos esta orientado a definir algunas funciones generales para cargar, explorar, procesar y visualizar los conjuntos de datos.
-## Creditos
+
 Material organizado por el [**Alexander Ariza**](https://www.researchgate.net/profile/Alexander_Ariza2), como apoyo al portal de conocimiento de la oficina de [**UNSPIDER**](https://www.un-spider.org), 2020.
 
+<img src='./IMG/head_b.png' alt='Logo Head' align='center' width='99%'></img>
+<br>
+# 1. INTRODUCCIÓN
+<hr>
+## **¿Que es Jupyter?**
+
+El Proyecto Jupyter es una organización sin ánimo de lucro creado por [Fernando Pérez](https://es.wikipedia.org/wiki/Fernando_P%C3%A9rez_(programador)) , [Brian Granger](https://blog.jupyter.org/@ellisonbg) para "desarrollar software de código abierto, mediante estándares abiertos y servicios para computación interactiva en docenas de lenguajes de programación".
+
+<img src='https://i.ytimg.com/vi/5johhf8DnLI/maxresdefault.jpg' align="left" width="30%"></img>
+<div class="alert alert-block alert-success" align="left">
+<b><i>"El nombre del **proyecto Jupyter o Project Jupyter** es una referencia a los tres lenguajes de programación principales soportados por Jupyter, que son `Julia`, `Python` y `R`".</div>
+ 
+A continuación, veremos una breve descripción del entorno de Jupyter, con énfasis en **Jupyter Notebook**, para el desarrollo de ejercicios de PDI en **GEE** y el paquete **geemap**.
+## Project Jupyter
+Project Jupyter ofrece diferentes herramientas para facilitar la informática interactiva, ya sea con una aplicación basada en la web (`Jupyter Notebooks`), un entorno de desarrollo interactivo (`JupyterLab`) o mediante un `JupyterHub` que lleva la informática interactiva a grupos de usuarios.
+<img src='./IMG/jupyter_comp.png' align='center' width='25%'>
+<div class="alert alert-block alert-success" align="center">
+<b><i>  "Project Jupyter es una plataforma web que permite desarrollar software de código abierto, estándares abiertos y servicios para computación interactiva en docenas de lenguajes de programación."</i></b>
+</div>
+
+
+
+## Creditos
 Las descripciones están basadas en las colaboraciones de proyecto **giswqs** de github creado por el [Profesor Wu, Q](https://wetlands.io/), del [Departamento de Geografía](https://geography.utk.edu/) de la [Universidad de Tennessee](https://www.utk.edu/), 2020. Asi como las capacitaciones del programa [Copuernicus](https://www.copernicus.eu/en) de la [ESA](https://www.esa.int/), a traves del programa de capacitacion de [EUMETSAT](https://training.eumetsat.int/).
 <span style="float:right;"><a href="./01_INTRODUCCIÓN.ipynb"> **01 - INTRODUCCIÓN - >>**</a>
  <img src='./IMG/UNicon.png' alt='Logo down' align='right' width='8%'></img>
