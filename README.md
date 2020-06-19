@@ -1,4 +1,4 @@
-# FOREST FIRES ON JUPITER NOTEBOOKS-GEEMAP
+# FOREST FIRES ON JUPYTER Notebooks-geemap
 <img src='./IMG/head_a.png' alt='Logo Head' align='center' width='99%'></img>
 <br>
 <img src='./IMG/header_1.png' alt='Logo UNSPIDER' align='left' width='50%'></img>
