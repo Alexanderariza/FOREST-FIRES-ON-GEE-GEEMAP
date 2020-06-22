@@ -169,6 +169,12 @@ geemap está destinado a estudiantes e investigadores, a quienes les gustaría u
 
 <br> **geemap** también está disponible en conda-forge. Si tiene instalado Anaconda o Miniconda en su computadora, puede crear un entorno conda Python para instalar geemap:
 
+## 3. USO DEL PAQUETE "Geemap"
+
+A continuación, se describen las funciones mas generales dispuestas en el paquete **geemap**: 
+### a) Creando un mapa interactivo con el paquete "geemap" para GEE:
+
+### b) Principales funciones con el paquete "geemap" para GEE:
 
 
 ## 4. CONVERSIÓN AUTOMÁTICA DE GEE - Javascripts a Python y Jupyter
@@ -180,7 +186,43 @@ Inicie un cuaderno interactivo con **Google Colab**. Tenga en cuenta que la conv
 <img src='./IMG/JS2PY.gif' alt='Logo UNSPIDER' align='left' width='100%'></img>
 <br>
 
+## 5. Mapa Interactivo Usando la API geemap en Python 3
 
+<a href="https://colab.research.google.com/github/Alexanderariza/FOREST-FIRES-ON-GEE-GEEMAP/blob/master/.ipynb_checkpoints/05_MAPEO_INTERACTIVO_USANDO_API_PYTHON_DE_GEE_GEEMAP-checkpoint.ipynb"><img src='./IMG/COLAB.svg' alt='Logo CO' align='left' width='10%'></img>
+
+Para el siguiente ejercicio, puede iniciar un cuaderno interactivo con **Google Colab**. Tenga en cuenta que Google Colab actualmente no es compatible con `ipyleaflet`. Por lo tanto, debe usar import `geemap.eefolium` en lugar de `import geemap`.
+Por otra parte puede si tiene instalado Anaconda, puede correrlo directamente sobre su Jupyter Notebook o en Jupyter Viewer.
+
+##  Cree un mapa interactivo: 
+* Cree un mapa interactivo de una zona de interés (puede utilizar la herramienta [BoundingBox](https://boundingbox.klokantech.com/) para extraer las coordenadas):
+<img src='./IMG/boundingbox.png' alt='Logo CO' align='center' width='50%'></img>
+<br>
+
+## 6. ÍNDICE DE ÁREA QUEMADA (NBR) DE MODIS EN AUSTRALIA
+<a href="https://colab.research.google.com/github/Alexanderariza/FOREST-FIRES-ON-GEE-GEEMAP/blob/master/.ipynb_checkpoints/06_%C3%8DNDICE_DE_QUEMA_NBR_EN_AUSTRALIA-checkpoint.ipynb"><img src='./IMG/COLAB.svg' alt='Logo CO' align='left' width='10%'></img>
+<br>
+
+### Índice Normalizado de Área Quemada (NBR)
+
+\begin{equation*}
+NBR=\frac{NIR-SWIR}{NIR+SWIR}
+\end{equation*}
+
+\begin{equation*}
+\left.
+\begin{aligned}
+NIR = \text{Infrarojo cercano}\\
+SWIR = \text{Infrarojo de onda corta}
+\end{aligned}
+\right\}
+\quad\text{Regiones del NBR}
+\end{equation*}
+
+###  Comparación con el NDVI
+Puede realizar una comparación entre la respuesta generada por el índice normalizado de área quemada NBR y el Índice de Vegetación NDVI:
+
+<img src='./IMG/NDVI.png' alt='NBR' align='center' width='50%'></img>
+<br>
 
 
 ## Creditos
