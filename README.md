@@ -169,6 +169,7 @@ geemap está destinado a estudiantes e investigadores, a quienes les gustaría u
 
 <br> **geemap** también está disponible en conda-forge. Si tiene instalado Anaconda o Miniconda en su computadora, puede crear un entorno conda Python para instalar geemap:
 
+
 ## 3. USO DEL PAQUETE "Geemap"
 
 A continuación, se describen las funciones mas generales dispuestas en el paquete **geemap**: 
