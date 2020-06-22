@@ -5,7 +5,7 @@
 <br>. 
 <hr> 
 
- Ejecicicos en español sobre Jupyter Notebook y geemap para el monitoreo de incendios forestales
+Ejecicicos en español sobre Jupyter Notebook y geemap para el monitoreo de incendios forestales
 # Incendios Forestales en GEE mediante el paquete geemap
 Aplicaciones en Google Earth Engine para el monitoreo y manejo de Incendios Forestales.
 # 1. Descripción
@@ -210,7 +210,7 @@ Puede realizar una comparación entre la respuesta generada por el índice norma
 <br>
 
 ## Creditos
-Las descripciones están basadas en las colaboraciones de proyecto **giswqs** de github creado por el [Profesor Wu, Q](https://wetlands.io/), del [Departamento de Geografía](https://geography.utk.edu/) de la [Universidad de Tennessee](https://www.utk.edu/), 2020. Asi como las capacitaciones del programa [Copuernicus](https://www.copernicus.eu/en) de la [ESA](https://www.esa.int/), a traves del programa de capacitacion de [EUMETSAT](https://training.eumetsat.int/).
+EL anterior recopillatorio esta organizado por el [**Alexander Ariza**](https://www.researchgate.net/profile/Alexander_Ariza2), como apoyo al portal de conocimiento de la oficina de [**UNSPIDER**](https://www.un-spider.org), (2020). Incluye colaboraciones del proyecto **giswqs** descrito y creado en github por el [Profesor Wu, Q](https://wetlands.io/), del [Departamento de Geografía](https://geography.utk.edu/) de la [Universidad de Tennessee](https://www.utk.edu/), 2020. Asi como, capacitaciones del programa [Copuernicus](https://www.copernicus.eu/en) de la [ESA](https://www.esa.int/), a traves del programa de capacitacion de [EUMETSAT](https://training.eumetsat.int/).
 
  <img src='./IMG/UNicon.png' alt='Logo down' align='right' width='8%'></img>
 <i><p style="text-align:right;">Material organizado por el [**Alexander Ariza**](https://www.researchgate.net/profile/Alexander_Ariza2), como apoyo al portal de conocimiento de la oficina de [**UNSPIDER**](https://www.un-spider.org), (2020)  .     
