@@ -167,7 +167,7 @@ geemap está destinado a estudiantes e investigadores, a quienes les gustaría u
 ### Instalación
 <img src='https://avatars0.githubusercontent.com/u/11897326?s=200&v=4' alt='Logo conda-force' align='left' width='10%'></img>
 
-<br> **geemap** también está disponible en conda-forge. Si tiene instalado Anaconda o Miniconda en su computadora, puede crear un entorno conda Python para instalar geemap:
+<br> **geemap** también está disponible en conda-forge. Si tiene instalado Anaconda o Miniconda en su computadora, puede crear un entorno conda Python para instalar geemap.
 
 
 
