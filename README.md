@@ -159,6 +159,17 @@ Binder crea una imagen de Docker del repositorio donde se alojan los cuadernos.
 * [nbviewer](https://nbviewer.jupyter.org/)
 * [Binder](https://mybinder.org/)
 * [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb)
+## 2. INSTALACIÓN DEL PAQUETE "Geemap"
+<a href="https://colab.research.google.com/github/Alexanderariza/FOREST-FIRES-ON-GEE-GEEMAP/blob/master/.ipynb_checkpoints/02_INSTALACI%C3%93N%20DEL%20PAQUETE%20GEEMAP-checkpoint.ipynb"><img src='./IMG/COLAB.svg' alt='Logo CO' align='left' width='10%'></img>
+<br>
+### Introducción
+geemap está destinado a estudiantes e investigadores, a quienes les gustaría utilizar el ecosistema Python de diversas bibliotecas y herramientas para explorar Google Earth Engine. También está diseñado para usuarios de GEE existentes que deseen realizar la transición de la API de JavaScript de GEE a la API de Python. Para ello, se explicara el módulo de conversión automatizado de JavaScript a Python del paquete geemap desarrollado por el Profesor Qiusheng Wu, lo que puede reducir en gran medida el tiempo necesario para convertir los JavaScripts GEE existentes en scripts Python y portátiles Jupyter.
+### Instalación
+<img src='https://avatars0.githubusercontent.com/u/11897326?s=200&v=4' alt='Logo conda-force' align='left' width='10%'></img>
+
+<br> **geemap** también está disponible en conda-forge. Si tiene instalado Anaconda o Miniconda en su computadora, puede crear un entorno conda Python para instalar geemap:
+
+
 
 ## 4. CONVERSIÓN AUTOMÁTICA DE GEE - Javascripts a Python y Jupyter
 
