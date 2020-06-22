@@ -171,9 +171,9 @@ geemap está destinado a estudiantes e investigadores, a quienes les gustaría u
 
 ## 3. USO DEL PAQUETE "Geemap"
 A continuación, se describen las funciones mas generales dispuestas en el paquete **geemap**: 
-### a) Creando un mapa interactivo con el paquete "geemap" para GEE:
+### <i> a) Creando un mapa interactivo con el paquete "geemap" para GEE.
 
-### b) Principales funciones con el paquete "geemap" para GEE:
+### <i> b) Principales funciones con el paquete "geemap" para GEE.
 
 
 ## 4. CONVERSIÓN AUTOMÁTICA DE GEE - Javascripts a Python y Jupyter
