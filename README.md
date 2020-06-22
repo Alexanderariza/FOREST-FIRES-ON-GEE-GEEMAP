@@ -193,10 +193,7 @@ Para el siguiente ejercicio, puede iniciar un cuaderno interactivo con **Google 
 Por otra parte puede si tiene instalado Anaconda, puede correrlo directamente sobre su Jupyter Notebook o en Jupyter Viewer.
 
 ##  Cree un mapa interactivo: 
-Cree un mapa interactivo de una zona de interés "puede utilizar la herramienta [BoundingBox](https://boundingbox.klokantech.com/) para extraer las coordenadas".
-
-<img src='./IMG/boundingbox.png' alt='Logo CO' align='center' width='50%'></img>
-<br>
+Cree un mapa interactivo de una zona de interés, puede utilizar la herramienta [BoundingBox](https://boundingbox.klokantech.com/) para extraer las coordenadas.
 
 ## 6. ÍNDICE DE ÁREA QUEMADA (NBR) DE MODIS EN AUSTRALIA
 <a href="https://colab.research.google.com/github/Alexanderariza/FOREST-FIRES-ON-GEE-GEEMAP/blob/master/.ipynb_checkpoints/06_%C3%8DNDICE_DE_QUEMA_NBR_EN_AUSTRALIA-checkpoint.ipynb"><img src='./IMG/COLAB.svg' alt='Logo CO' align='left' width='10%'></img>
