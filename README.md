@@ -203,26 +203,13 @@ Por otra parte puede si tiene instalado Anaconda, puede correrlo directamente so
 
 ### Índice Normalizado de Área Quemada (NBR)
 
-\begin{equation*}
-NBR=\frac{NIR-SWIR}{NIR+SWIR}
-\end{equation*}
-
-\begin{equation*}
-\left.
-\begin{aligned}
-NIR = \text{Infrarojo cercano}\\
-SWIR = \text{Infrarojo de onda corta}
-\end{aligned}
-\right\}
-\quad\text{Regiones del NBR}
-\end{equation*}
+El índice Normalizado de Área Quemada (NBR) es un índice diseñado para resaltar áreas quemadas en grandes zonas de incendio. La fórmula es similar a NDVI, excepto que combina el uso de longitudes de onda de infrarrojo cercano (NIR) e infrarrojo de onda corta (SWIR).
 
 ###  Comparación con el NDVI
 Puede realizar una comparación entre la respuesta generada por el índice normalizado de área quemada NBR y el Índice de Vegetación NDVI:
 
 <img src='./IMG/NDVI.png' alt='NBR' align='center' width='50%'></img>
 <br>
-
 
 ## Creditos
 Las descripciones están basadas en las colaboraciones de proyecto **giswqs** de github creado por el [Profesor Wu, Q](https://wetlands.io/), del [Departamento de Geografía](https://geography.utk.edu/) de la [Universidad de Tennessee](https://www.utk.edu/), 2020. Asi como las capacitaciones del programa [Copuernicus](https://www.copernicus.eu/en) de la [ESA](https://www.esa.int/), a traves del programa de capacitacion de [EUMETSAT](https://training.eumetsat.int/).
