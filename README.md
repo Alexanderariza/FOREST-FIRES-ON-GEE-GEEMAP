@@ -212,5 +212,11 @@ Puede realizar una comparación entre la respuesta generada por el índice norma
 ## Creditos
 EL anterior recopillatorio esta organizado por el [**Alexander Ariza**](https://www.researchgate.net/profile/Alexander_Ariza2), como apoyo al portal de conocimiento de la oficina de [**UNSPIDER**](https://www.un-spider.org), (2020). Incluye colaboraciones del proyecto **giswqs** descrito y creado en github por el [Profesor Wu, Q](https://wetlands.io/), del [Departamento de Geografía](https://geography.utk.edu/) de la [Universidad de Tennessee](https://www.utk.edu/), 2020. Asi como, capacitaciones del programa [Copuernicus](https://www.copernicus.eu/en) de la [ESA](https://www.esa.int/), a traves del programa de capacitacion de [EUMETSAT](https://training.eumetsat.int/).
 
+## Referencias
+Para soportar este trabajo, por favor considere citar los siguientes articulos:
+
+Wu, Q. (2020). geemap: A Python package for interactive mapping with Google Earth Engine. The Journal of Open Source Software. https://doi.org/10.21105/joss.02305
+Wu, Q., Lane, C. R., Li, X., Zhao, K., Zhou, Y., Clinton, N., DeVries, B., Golden, H. E., & Lang, M. W. (2019). Integrating LiDAR data and multi-temporal aerial imagery to map wetland inundation dynamics using Google Earth Engine. Remote Sensing of Environment, 228, 1-13. https://doi.org/10.1016/j.rse.2019.04.015 (pdf | source code)
+
  <img src='./IMG/UNicon.png' alt='Logo down' align='right' width='8%'></img>
 <i><p style="text-align:right;">Material organizado por el [**Alexander Ariza**](https://www.researchgate.net/profile/Alexander_Ariza2), como apoyo al portal de conocimiento de la oficina de [**UNSPIDER**](https://www.un-spider.org), (2020)  .     
