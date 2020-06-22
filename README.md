@@ -171,9 +171,9 @@ geemap está destinado a estudiantes e investigadores, a quienes les gustaría u
 
 ## 3. USO DEL PAQUETE "Geemap"
 A continuación, se describen las funciones mas generales dispuestas en el paquete **geemap**: 
-### a) <i>Creando un mapa interactivo con el paquete "geemap" para GEE.</i>
+###a) Creando un mapa interactivo con el paquete "geemap" para GEE.
 
-### b) <i>Principales funciones con el paquete "geemap" para GEE.</i>
+###b) Principales funciones con el paquete "geemap" para GEE.
 
 
 ## 4. CONVERSIÓN AUTOMÁTICA DE GEE - Javascripts a Python y Jupyter
@@ -195,7 +195,8 @@ Por otra parte puede si tiene instalado Anaconda, puede correrlo directamente so
 ##  Cree un mapa interactivo: 
 * Cree un mapa interactivo de una zona de interés (puede utilizar la herramienta [BoundingBox](https://boundingbox.klokantech.com/) para extraer las coordenadas):
 <img src='./IMG/boundingbox.png' alt='Logo CO' align='center' width='50%'></img>
-<br>
+<br>.
+
 ## 6. ÍNDICE DE ÁREA QUEMADA (NBR) DE MODIS EN AUSTRALIA
 <a href="https://colab.research.google.com/github/Alexanderariza/FOREST-FIRES-ON-GEE-GEEMAP/blob/master/.ipynb_checkpoints/06_%C3%8DNDICE_DE_QUEMA_NBR_EN_AUSTRALIA-checkpoint.ipynb"><img src='./IMG/COLAB.svg' alt='Logo CO' align='left' width='10%'></img>
 <br>
