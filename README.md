@@ -49,9 +49,9 @@ Material organizado por el [**Alexander Ariza**](https://www.researchgate.net/pr
 
 <img src='./IMG/head_b.png' alt='Logo Head' align='center' width='99%'></img>
 <br>
-# 1. INTRODUCCIÓN
+## 1. INTRODUCCIÓN
 
-## **¿Que es Jupyter?**
+### **¿Que es Jupyter?**
 
 El Proyecto Jupyter es una organización sin ánimo de lucro creado por [Fernando Pérez](https://es.wikipedia.org/wiki/Fernando_P%C3%A9rez_(programador)) , [Brian Granger](https://blog.jupyter.org/@ellisonbg) para "desarrollar software de código abierto, mediante estándares abiertos y servicios para computación interactiva en docenas de lenguajes de programación".
 
@@ -61,7 +61,7 @@ El Proyecto Jupyter es una organización sin ánimo de lucro creado por [Fernand
  
 A continuación, veremos una breve descripción del entorno de Jupyter, con énfasis en **Jupyter Notebook**, para el desarrollo de ejercicios de PDI en **GEE** y el paquete **geemap**.
 
-## Project Jupyter
+### Project Jupyter
 Project Jupyter ofrece diferentes herramientas para facilitar la informática interactiva, ya sea con una aplicación basada en la web (`Jupyter Notebooks`), un entorno de desarrollo interactivo (`JupyterLab`) o mediante un `JupyterHub` que lleva la informática interactiva a grupos de usuarios.
 
 <img src='./IMG/jupyter_comp.png' align='center' width='25%'>
@@ -170,8 +170,9 @@ geemap está destinado a estudiantes e investigadores, a quienes les gustaría u
 <br> **geemap** también está disponible en conda-forge. Si tiene instalado Anaconda o Miniconda en su computadora, puede crear un entorno conda Python para instalar geemap:
 
 
-## 3. USO DEL PAQUETE "Geemap"
 
+
+## 3. USO DEL PAQUETE "Geemap"
 A continuación, se describen las funciones mas generales dispuestas en el paquete **geemap**: 
 ### a) Creando un mapa interactivo con el paquete "geemap" para GEE:
 
