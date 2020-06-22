@@ -193,7 +193,8 @@ Para el siguiente ejercicio, puede iniciar un cuaderno interactivo con **Google 
 Por otra parte puede si tiene instalado Anaconda, puede correrlo directamente sobre su Jupyter Notebook o en Jupyter Viewer.
 
 ##  Cree un mapa interactivo: 
-* Cree un mapa interactivo de una zona de interés (puede utilizar la herramienta [BoundingBox](https://boundingbox.klokantech.com/) para extraer las coordenadas):
+* Cree un mapa interactivo de una zona de interés (puede utilizar la herramienta [BoundingBox](https://boundingbox.klokantech.com/) para extraer las coordenadas).
+
 <img src='./IMG/boundingbox.png' alt='Logo CO' align='center' width='50%'></img>
 <br>
 
